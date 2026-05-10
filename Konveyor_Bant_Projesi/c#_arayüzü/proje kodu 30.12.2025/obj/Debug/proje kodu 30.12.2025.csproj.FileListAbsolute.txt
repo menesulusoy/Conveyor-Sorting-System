@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\bin\Debug\proje kodu 30.12.2025.exe.config
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\bin\Debug\proje kodu 30.12.2025.exe
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\bin\Debug\proje kodu 30.12.2025.pdb
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\obj\Debug\proje kodu 30.12.2025.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\obj\Debug\proje_kodu_30._12._2025.Form1.resources
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\obj\Debug\proje_kodu_30._12._2025.Properties.Resources.resources
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\obj\Debug\proje kodu 30.12.2025.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\obj\Debug\proje kodu 30.12.2025.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\obj\Debug\proje kodu 30.12.2025.exe
+C:\Users\murat\source\repos\proje kodu 30.12.2025\proje kodu 30.12.2025\obj\Debug\proje kodu 30.12.2025.pdb
