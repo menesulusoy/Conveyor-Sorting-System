@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29699354/README.md)
+
 # 3 Renk ve 3 Boyut Ayıran Otonom Konveyör Bant Sistemi
 
 Bu proje, konveyör bant üzerindeki nesneleri **renk** ve **boyut** bilgilerine göre otomatik olarak sınıflandıran, Arduino tabanlı bir gömülü sistem uygulamasıdır.
